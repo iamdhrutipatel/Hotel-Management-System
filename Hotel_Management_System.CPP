@@ -820,7 +820,7 @@ void main()
 		gotoxy(33,8);printf("1.CHECK-IN");
 		gotoxy(33,9);printf("2.CHECK-OUT");
 		gotoxy(33,10);printf("3.CUSTOMER INFO");
-		gotoxy(33,11);printf("4.MIS");
+		gotoxy(33,11);printf("4.MASTER");
 		gotoxy(33,12);printf("5.EXIT");
 		gotoxy(33,13);printf("ENTER YOUR CHOICE:");
 		choice=getche();
