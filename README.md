@@ -18,7 +18,7 @@ This Repository consist of following :
     -  Bill Display
 -   Matser
     -  Room Type
-            - Add
-            - Modify
-            - Display
-            - Delete
+        - Add
+        - Modify
+        - Display
+        - Delete
