@@ -3,9 +3,9 @@
 
 This Repository consist of following :
 
--   MAIN CPP FILE
--   PRESENTATION on Project
--   VIDEO of Working of Application
+- [Main CPP File](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Hotel_Management_System.CPP)
+- [Presentation](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Presentation.pptx)
+- [Video Demonstration](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Implementation%20Video.mp4)
 
 <b>FLOW OF APPLICATION</b>
 -   Check-In
