@@ -1,13 +1,14 @@
 # Hotel-Management-System
 <b>Hotel Management System Application build with C++</b>
 
-This Repository consist of following :
+<b>This Repository consist of following :</b>
 
 - [Main CPP File](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Hotel_Management_System.CPP)
 - [Presentation](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Presentation.pptx)
 - [Video Demonstration](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Implementation%20Video.mp4)
 
-Flow of the Application:
+
+<b>Flow of the Application:</b>
 -   Check-In
     -  Current Booking
     -  Advance Booking
