@@ -7,7 +7,7 @@ This Repository consist of following :
 - [Presentation](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Presentation.pptx)
 - [Video Demonstration](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Implementation%20Video.mp4)
 
-<b>FLOW OF APPLICATION</b>
+Flow of the Application:
 -   Check-In
     -  Current Booking
     -  Advance Booking
