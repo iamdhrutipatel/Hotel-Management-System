@@ -797,11 +797,9 @@ void MASTER_MENU()
 void intro()
 {
 	clrscr();
-	printf("\n\n\n\n\t   DEVANG PATEL INSTITUTE OF ADVANCE TECHNOLOGY AND RESEARCH");
 	printf("\n\n\n\n\t\t\t\t  HOTEL MANAGEMENT SYSTEM");
 	printf("\n\n\n\n\t\t\t  MADE BY: ");
-	printf("ANJALI PATEL(18DCS064)");
-	printf("\n\t\t\t\t   DHRUTI PATEL(18DCS066)");
+	printf("\n\t\t\t\t   DHRUTI PATEL");
 	printf("\n\n\n\n\t\t\t  PRESS ANY KEY TO CONTINUE...");
 	getch();
 }
