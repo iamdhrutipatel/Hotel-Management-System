@@ -5,7 +5,7 @@
 
 - [Main CPP File](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Hotel_Management_System.CPP)
 - [Presentation](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Presentation.pptx)
-- [Video Demonstration](https://github.com/iamdhrutipatel/Hotel-Managemet-System/blob/main/Implementation%20Video.mp4)
+- [Video Demonstration](https://github.com/iamdhrutipatel/Hotel-Management-System/blob/main/Implementation%20Video.mov)
 
 
 <b>Flow of the Application:</b>
